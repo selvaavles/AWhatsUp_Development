@@ -9,3 +9,5 @@ Author : selvakumar
 3.last seen code 
 
 4.attachments (image, audio, video) code
+
+5. hiding the last scene.
